@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-shield-guardian
+  x-cortex-tag: monster-shield-guardian
+  x-cortex-custom-metadata:
+    alignment: chaotic-neutral
+    type: construct
+    challenge_rating: 7
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-shield-guardian
+      alias: github-token-test
